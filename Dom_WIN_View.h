@@ -3,3 +3,8 @@
 //Diogo Casari del Pino
 //Gustavo Nascimento Zanatta
 //Juan Fernando Coucolis Isano
+
+int menuGeral();
+void apresentaPecas();
+int i; 
+int opc; 
